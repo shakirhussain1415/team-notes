@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 line 1(a)
+=======
+I am Qalbe hassan and i want to change this because i am the 2nd partner
+>>>>>>> feature-b
